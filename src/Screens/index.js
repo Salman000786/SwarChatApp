@@ -1,0 +1,5 @@
+export{default as StatusScreen} from './StatusScreen/StatusScreen'
+export{default as CallScreen} from './CallScreen/CallScreen'
+export{default as CameraScreen} from './CameraScreen/CameraScreen'
+export {default as ChatScreen} from './ChatScreen/ChatScreen'
+export { default as SettingScreen} from './SettingScreen/SettingScreen'
